@@ -121,8 +121,8 @@
 ## 🤝 Let's Connect
 
 📧 gurusaic3x@gmail.com  
-🌐 [Portfolio](https://gurusaichittoji7.github.io/Portfolio_Project/)  
-💼 [LinkedIn](https://www.linkedin.com/in/gurusai-chittoji-73a5a822a/)
+🌐 [Portfolio](https://gurusaichittoji7.github.io/Portfolio/)  
+💼 [LinkedIn](https://www.linkedin.com/in/gurusai-chittoji/)
 
 ---
 
